@@ -1,0 +1,2 @@
+# NewsMJ
+NewsMJ Wordpress
